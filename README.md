@@ -21,3 +21,6 @@ on the most time- and environmentally-efficient forms of transportation.
 Skills used:
 * Python
 * R
+
+The following libraries were installed in R for smooth functioning of the project:
+"readxl", "dplyr", "ggplot2", "stringr", "GGally", "ggfortify"
